@@ -12,7 +12,7 @@ import { chatEntryToString, newListWithEntryAtIndex } from '../utils/index.js';
 import iconDelete from '../../public/svg/delete-icon.svg?raw';
 import iconCancel from '../../public/svg/cancel-icon.svg?raw';
 import iconSend from '../../public/svg/send-icon.svg?raw';
-import iconLogo from '../../public/branding/brand-logo.svg?raw';
+import iconLogo from '../../public/branding/innovasphere.svg?raw';
 
 import { ChatController } from './chat-controller.js';
 import {

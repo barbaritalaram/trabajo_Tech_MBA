@@ -25,7 +25,7 @@ export const styles = css`
     background-origin: border-box;
     background-clip: content-box, border-box;
     background-size: cover;
-    background-image: linear-gradient(to right, var(--c-accent-light), var(--c-accent-high));
+    background-image: linear-gradient(to right, var(--c-accent-light), var(#28566d));
     width: calc(var(--d-xlarge) * 2);
     height: calc(var(--d-xlarge) * 2);
     display: flex;

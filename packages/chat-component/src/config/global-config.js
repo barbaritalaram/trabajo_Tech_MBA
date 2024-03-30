@@ -39,8 +39,8 @@ const globalConfig = {
   // Custom Branding details
   // All these should come from persistence config
   BRANDING_URL: '#',
-  BRANDING_LOGO_ALT: 'Brand Logo',
-  BRANDING_HEADLINE: 'Welcome to the Support Assistant of our Brand',
+  BRANDING_LOGO_ALT: 'InnovaSphere Logo',
+  BRANDING_HEADLINE: 'Bienvenido al asistente de InnovaSphere',
   SHOW_CHAT_HISTORY_LABEL: 'Show Chat History',
   HIDE_CHAT_HISTORY_LABEL: 'Hide Chat History',
   CHAT_MAX_COUNT_TAG: '{MAX_CHAT_HISTORY}',
@@ -48,18 +48,21 @@ const globalConfig = {
 };
 
 const teaserListTexts = {
-  TEASER_CTA_LABEL: 'Ask now',
-  HEADING_CHAT: 'Chat with our support team',
-  HEADING_ASK: 'Ask a question',
+  TEASER_CTA_LABEL: 'Pregunta Ahora',
+  HEADING_CHAT: 'Chatea con el equipo de InnovaSphere',
+  HEADING_ASK: 'Pregunta lo que quieras',
   DEFAULT_PROMPTS: [
     {
-      description: 'How to search and book rentals?',
+      description: '¿En qué consiste el proyecto CardioPath?',
     },
     {
-      description: 'What is the refund policy?',
+      description: '¿Qué problema resuelve el proyecto CardioPath?',
     },
     {
-      description: 'How to contact a representative?',
+      description: '¿Cómo resuelve este problema el proyecto CardioPath?',
+    },
+    {
+      description: '¿Quiénes son los stakeholders del proyecto?',
     },
   ],
 };
